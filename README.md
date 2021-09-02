@@ -134,3 +134,7 @@ SETP 6 - AUTO ALIVE
 alive = False #@param {type:'boolean'}
  
 ! sleep 999999
+
+
+
+**YOU CAN DOWNLOAD OUR CODE IN GITHUB**
