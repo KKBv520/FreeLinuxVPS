@@ -128,3 +128,9 @@ try:
 except NameError as e:
     print("username variable not found")
     print("Create a User First")` ` `
+SETP 6 - AUTO ALIVE
+#@title **MAKE ALIVE VPS 24 HOURS** 
+ 
+alive = False #@param {type:'boolean'}
+ 
+! sleep 999999
